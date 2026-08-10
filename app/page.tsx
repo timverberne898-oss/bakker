@@ -110,8 +110,8 @@ export default function Home() {
 
         <div className="fade-up fade-up-delay-3 flex flex-wrap items-center gap-4 mt-9">
           <div className="flex items-center gap-2 bg-kraft border border-kraftline rounded-sm px-4 py-2">
-            <span className="font-display text-lg text-crust">1</span>
-            <span className="font-hand text-honey text-xl leading-none">★</span>
+            <span className="font-display text-lg text-crust">1,0</span>
+            <span className="font-hand text-honey text-xl leading-none">★☆☆☆☆</span>
             <span className="text-sm text-fade">· 1 reviews</span>
           </div>
           <a
