@@ -178,6 +178,7 @@ export default function Home() {
             </h2>
             <p className="text-crust/70 leading-relaxed mb-1">Geijzerstraat 1N</p>
             <p className="text-crust/70 leading-relaxed mb-6">5753 RP Deurne</p>
+            <p className="text-crust/70 leading-relaxed mb-6"> tel. 0492-340331</p>
             <a
               href="https://www.google.com/maps/search/?api=1&query=Geijzerstraat+1N+5753+RP+Deurne"
               target="_blank"
@@ -195,7 +196,7 @@ export default function Home() {
               rel="noopener noreferrer"
               className="font-display text-xl text-crust hover:text-rye transition-colors block mb-2"
             >
-              hetbakkershuys.nl
+               info@hetbakkershuys.nl
             </a>
             <p className="text-sm text-fade">
               Openingstijden en actuele informatie: vul aan zodra bekend.
