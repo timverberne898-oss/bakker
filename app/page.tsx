@@ -40,7 +40,13 @@ const reviews = [
     name: "Świat jest...",
     meta: "Local Guide · vertaald uit het Pools",
     quote: "Het beste Poolse brood uit de streek.",
-    tilt: "tilt-1",
+    tilt: "tilt-7",
+  },
+    {
+    name: "Patrick Verberne",
+    meta: "Eigenaar",
+    quote: "Heel lekker brood.",
+    tilt: "tilt-8",
   },
 ];
 
