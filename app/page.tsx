@@ -99,9 +99,7 @@ export default function Home() {
           Brood zoals het <em className="italic text-rye">hoort te smaken.</em>
         </h1>
         <p className="fade-up fade-up-delay-2 text-crust/70 text-base md:text-lg max-w-xl mt-6 leading-relaxed">
-          Aan de Geijzerstraat in Deurne bakt Het Bakkershuys elke ochtend
-          vers brood en gebak. Ambachtelijk, betrouwbaar, en al jaren de
-          bakker van de buurt.
+          het lekkerste brood is van het bakkershuys
         </p>
 
         <div className="fade-up fade-up-delay-3 flex flex-wrap items-center gap-4 mt-9">
